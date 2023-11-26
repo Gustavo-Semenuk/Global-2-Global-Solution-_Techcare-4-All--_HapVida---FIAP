@@ -23,3 +23,10 @@ Pitch: https://www.youtube.com/watch?v=B-eDFx2Kb0g
     </div>
 </body>
 </html>
+
+##
+### Arquivos neste repositório:
+
+* Apresentação pptx
+* Documentação da ideação da solução
+* Lista com data sets pesquisados
