@@ -1,5 +1,7 @@
 ### Global Solution TechCare4All - Graduação em Data Science - FIAP
 
+##
+
 ### Links Úteis
 
 Apresentação do desafio: https://www.fiap.com.br/graduacao/global-solution/
